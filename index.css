@@ -1,3 +1,8 @@
+body {
+	font-family: 'Saira Condensed', sans-serif;
+	font-size: 20px;
+}
+
 h1 {
 	text-align: center;
 	font-family: 'Arvo', serif;
@@ -6,15 +11,28 @@ h1 {
 h3 {
 	font-family: 'Arvo', serif;
 }
-p {
-	font-family: 'Saira Condensed', sans-serif;
-	font-size: 20px;
-}
 
 .centered {
 	text-align: center;
 }
 
 #projectlist {
-	margin-left: 50px;
+	margin-left: 100px;
+}
+
+#daisy {
+	width: 500px;
+	margin: auto;
+	display: block;
+}
+
+table {
+	width:100%;
+	
+	
+}
+
+td {
+	width:33%;
+	vertical-align: top;
 }
